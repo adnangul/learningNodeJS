@@ -1,3 +1,9 @@
+Install npm/nodejs
+-------------------
+    https://www.npmjs.com/get-npm
+    
+    download and install from https://nodejs.org/en/
+    
 -------------------------------
 Manage multiple nodejs version
 -------------------------------
@@ -12,4 +18,12 @@ Manage multiple nodejs version
  > n <ver>
  > n latest
  > n --help
+ 
+
+running nodejs application
+---------------------------
+Below is how you start nodsjs app, especially the firstApp
+> node app.js, 
+visit http://localhost:3000
+
  
