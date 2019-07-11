@@ -1,0 +1,15 @@
+-------------------------------
+Manage multiple nodejs version
+-------------------------------
+
+    use “n” (https://www.npmjs.com/package/n?activeTab=readme) to manage my Node versions. 
+    run “n <version>” 
+
+ installation
+ > npm install -g n
+
+ switch version
+ > n <ver>
+ > n latest
+ > n --help
+ 
