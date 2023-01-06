@@ -71,3 +71,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+
+### additionally 
+Make a copy .env.sample to .env.development for dev environment and update as needed
+Make a copy .env.sample to .env.test for dev environment and update as needed 
+
+### I have to install following to get vs code stop complaining about test decorator describe, it etc
+ npm i --save-dev @types/jest
+ # npm i --save-dev @types/mocha

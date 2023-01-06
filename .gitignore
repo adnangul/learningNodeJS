@@ -2,3 +2,5 @@ node_modules
 .parcel-cache/
 
 misc/typeScript/
+NestJS/mycar/.env.test
+NestJS/mycar/.env.development
