@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nestjs/common": "^7.6.17",
+    "@nestjs/common": "^10.3.5",
     "@nestjs/core": "^10.3.5",
     "@nestjs/platform-express": "^10.3.5",
     "reflect-metadata": "^0.1.13",
